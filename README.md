@@ -60,6 +60,9 @@ The project integrated various data sources and used a range of visualizations t
 
 # Result :
 Delivered a Blinkit grocery store sales data analysis dashboard that provides valuable insights for :- Sales performance analysis Identifying trends Making data-driven decisions to improve sales
+
+# blinkit dashboard
+![alt image](https://github.com/Krishnareddy0709/Blinkit--data-analysis/blob/72b76169087e3ffb3b120eefc600f6500df48ddc/Dashboard.png)
     
      
 
