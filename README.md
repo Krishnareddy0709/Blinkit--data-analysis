@@ -58,7 +58,8 @@ The project integrated various data sources and used a range of visualizations t
    - Created charts to effectively visualize the data.
    - Implemented interactive features to allow for filtering by multiple items and clearing all filters at once.
 
-
+# Result :
+Delivered a Blinkit grocery store sales data analysis dashboard that provides valuable insights for :- Sales performance analysis Identifying trends Making data-driven decisions to improve sales
     
      
 
